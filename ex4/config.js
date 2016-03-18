@@ -8,7 +8,7 @@ module.exports = {
     awareness: false,
     requestTimeout: 30,
     requestTimeoutRenewal: 5,
-    type: 'service',
+    type: 'daemon',
     multi: null,
     main: 'index.js'
 };
