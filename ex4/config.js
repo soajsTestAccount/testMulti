@@ -3,12 +3,12 @@
 module.exports = {
     serviceName: 'EX4',
     serviceGroup: 'Test Group',
-    servicePort: 5577,
+    servicePort: 5580,
     extKeyRequired: false,
     awareness: false,
     requestTimeout: 30,
     requestTimeoutRenewal: 5,
     type: 'service',
-    multi: ['ex1/config.js', 'ex2/config.js', 'ex3/config.js', 'ex4/config.js'],
+    multi: null,
     main: 'index.js'
 };
