@@ -14,5 +14,9 @@ module.exports = {
         owner: 'soajsTestAccount',
         repo: 'testMulti',
         main: '/index.js'
+    },
+    prerequisites: {
+        cpu: '',
+        memory: ''
     }
 };
