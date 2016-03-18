@@ -10,5 +10,9 @@ module.exports = {
     requestTimeoutRenewal: 5,
     type: 'daemon',
     multi: null,
-    main: 'index.js'
+    src: {
+        owner: 'soajsTestAccount',
+        repo: 'testMulti',
+        main: '/index.js'
+    }
 };
