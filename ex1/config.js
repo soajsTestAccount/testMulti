@@ -3,7 +3,7 @@
 module.exports = {
     serviceName: 'EX1',
     serviceGroup: 'Test Group',
-    servicePort: 5577,
+    servicePort: 5588,
     extKeyRequired: false,
     awareness: false,
     requestTimeout: 30,
