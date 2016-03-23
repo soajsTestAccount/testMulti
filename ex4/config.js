@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    serviceName: 'EX44',
+    serviceName: 'EX4',
     serviceGroup: 'Test Group',
     servicePort: 5580,
     extKeyRequired: false,
