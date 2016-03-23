@@ -6,7 +6,7 @@ module.exports = {
     servicePort: 5577,
     extKeyRequired: false,
     awareness: false,
-    requestTimeout: 300,
+    requestTimeout: 3000,
     requestTimeoutRenewal: 5,
     type: 'service',
     multi: null,
