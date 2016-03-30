@@ -16,7 +16,7 @@ module.exports = {
             main: 'ex3/app.js'
         },
         {
-            config: 'ex4/config.js'
+            config: 'ex4/ex4-1/config.js'
         }
     ]
 };
