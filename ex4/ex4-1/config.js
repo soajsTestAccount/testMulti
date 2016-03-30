@@ -9,12 +9,6 @@ module.exports = {
     requestTimeout: 30,
     requestTimeoutRenewal: 5,
     type: 'daemon',
-    multi: null,
-    src: {
-        owner: 'soajsTestAccount',
-        repo: 'testMulti',
-        main: '/index.js'
-    },
     prerequisites: {
         cpu: '',
         memory: ''
