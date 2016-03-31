@@ -9,7 +9,7 @@ module.exports = {
     servicePort: 4113,
     extKeyRequired: true,
     type: 'service',
-    main: 'ex2/index.js',
+    main: '/ex2/index.js',
     prerequisites: {
         cpu: '',
         memory: ''
