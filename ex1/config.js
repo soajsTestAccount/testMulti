@@ -8,7 +8,7 @@ module.exports = {
     awareness: false,
     requestTimeout: 3000,
     requestTimeoutRenewal: 5,
-    // type: 'service',
+    type: 'service',
     prerequisites: {
         cpu: '',
         memory: ''
