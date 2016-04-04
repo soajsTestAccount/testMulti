@@ -4,8 +4,7 @@ module.exports = {
 	type: 'daemon',
 	serviceVersion: 1,
 	prerequisites: {},
-	"errors": {},
-	"waitTimeInMin": 1 * 60,
+	errors: {},
 
 	"schema": {
 		"testJob": {
