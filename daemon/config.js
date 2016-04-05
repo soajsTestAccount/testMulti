@@ -5,7 +5,6 @@ module.exports = {
 	serviceVersion: 1,
 	prerequisites: {},
 	"errors": {},
-	"waitTimeInMin": 1 * 60,
 
 	"schema": {
 		"testJob": {
