@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    serviceName: 'EX3',
+    serviceName: 'ex3',
     serviceGroup: 'Test Group',
     servicePort: 5579,
     requestTimeout: 30,

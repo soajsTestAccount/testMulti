@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    serviceName: "jsconfTestTwo",
+    serviceName: "jsconftesttwo",
     serviceGroup: "JSConf",
     serviceVersion: 1,
     requestTimeout: 30,

@@ -1,5 +1,5 @@
 module.exports = {
-	serviceName: "testDaemon",
+	serviceName: "testdaemon",
 	servicePort: 4900,
 	type: 'daemon',
 	serviceVersion: 1,
